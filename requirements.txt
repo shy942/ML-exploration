@@ -8,3 +8,5 @@ umap-learn
 lightgbm
 catboost
 optuna
+torch
+torchvision 
