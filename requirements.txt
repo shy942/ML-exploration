@@ -10,3 +10,4 @@ catboost
 optuna
 torch
 torchvision 
+statsmodels
