@@ -11,3 +11,4 @@ optuna
 torch
 torchvision 
 statsmodels
+prophet
