@@ -63,7 +63,6 @@ Prediction & Deployment
 ### Data Analysis
 - Data exploration
 - Missing value analysis
-- Imbalance data normalization 
 - Statistical summaries
 - Data visualization
 - Correlation analysis
@@ -123,14 +122,24 @@ Prediction & Deployment
 
 ## Technologies Used
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- TensorFlow / Keras
-- NLTK
-- Gensim
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- umap-learn
+- lightgbm
+- catboost
+- optuna
+- torch
+- torchvision 
+- statsmodels
+- prophet
+- shap
+- lime
+- nltk
+- datasets
+- gensim
 - Jupyter Notebook
 
 ---
