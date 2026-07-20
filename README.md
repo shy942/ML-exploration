@@ -17,10 +17,10 @@ This project is designed as a practical learning resource for students, aspiring
 | 05_Clustering.ipynb | Clustering | K-Means clustering, Elbow Method, Silhouette Score, cluster visualization, and customer segmentation. |
 | 06_Dimensionality_Reduction.ipynb | Dimensionality Reduction | PCA and feature reduction techniques for visualization and improving model performance. |
 | 07_Ensemble_Learning.ipynb | Ensemble Learning | Bagging, Boosting, AdaBoost, Gradient Boosting, XGBoost, and model comparison. |
-| 08_Model_Selection.ipynb | Model Evaluation | Cross-validation, Grid Search, Random Search, performance metrics, and hyperparameter tuning. |
-| 09_ANN.ipynb | Artificial Neural Networks | Building feedforward neural networks using TensorFlow/Keras for classification tasks. |
-| 10_CNN.ipynb | Convolutional Neural Networks | Deep learning for image classification using CNNs. |
-| 11_RNN_LSTM.ipynb | Sequential Models | Recurrent Neural Networks and LSTM models for sequence prediction and time-series applications. |
+| 08_Model_Optimization.ipynb | Model Evaluation | Cross-validation, Grid Search, Random Search, performance metrics, and hyperparameter tuning. |
+| 09_Deep_Learning_PyTorch.ipynb | Artificial Neural Networks | Building feedforward neural networks using TensorFlow/Keras for classification tasks. |
+| 10_Time_Series_Forcastung.ipynb | Convolutional Neural Networks | Deep learning for image classification using CNNs. |
+| 11_Explainable_AI.ipynb | Sequential Models | Recurrent Neural Networks and LSTM models for sequence prediction and time-series applications. |
 | 12_Computer_Vision.ipynb | Computer Vision | Image preprocessing, augmentation, transfer learning, and computer vision applications. |
 | 13_NLP.ipynb | Natural Language Processing | Text preprocessing, TF-IDF, Word2Vec, text classification, and sentiment analysis. |
 
