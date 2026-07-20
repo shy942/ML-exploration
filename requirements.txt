@@ -16,3 +16,4 @@ shap
 lime
 nltk
 datasets
+gensim
