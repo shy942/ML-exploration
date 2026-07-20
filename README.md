@@ -63,10 +63,10 @@ Prediction & Deployment
 ### Data Analysis
 - Data exploration
 - Missing value analysis
+- Imbalance data normalization 
 - Statistical summaries
 - Data visualization
 - Correlation analysis
-- Outlier detection
 
 ### Data Preprocessing
 - Missing value imputation
@@ -97,10 +97,8 @@ Prediction & Deployment
 - XGBoost
 
 ### Deep Learning
-- Artificial Neural Networks (ANN)
 - Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-- Long Short-Term Memory (LSTM)
+- Multi-Layer Perceptron (MLP)
 
 ### Natural Language Processing
 - Text preprocessing
